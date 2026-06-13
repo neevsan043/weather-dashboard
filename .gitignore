@@ -1,0 +1,26 @@
+# API Keys and Secrets
+config.js
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build files
+dist/
+build/
+
+# Cache
+.cache/
+*.cache
